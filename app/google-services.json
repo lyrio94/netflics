@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641697712690",
+    "project_id": "mapasteste-303622",
+    "storage_bucket": "mapasteste-303622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641697712690:android:b5e4024912b110eab10a2b",
+        "android_client_info": {
+          "package_name": "br.iesb.mobile.netflics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641697712690-9bk9q1ihnfj6eptbqq288s2eu8538cac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.iesb.mobile.netflics",
+            "certificate_hash": "12ed84b7505084cf316b961a836a11edd15a15de"
+          }
+        },
+        {
+          "client_id": "641697712690-3sns4cgu2prsnnasce6j5qaq51bqpu83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkxYOGh-5IsbaxG-puAIa9oiKOeL3UGWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641697712690-3sns4cgu2prsnnasce6j5qaq51bqpu83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
